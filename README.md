@@ -16,6 +16,7 @@
 - [*Strategy*](DesignPatterns/Strategy)
 - [*Template Method*](DesignPatterns/TemplateMethod)
 - [*Visitor*](DesignPatterns/Visitor)
+- [*Implicit Conversion*](DesignPatterns/ImplicitConversion)
 
 ## Licença
 Projeto desenvolvido para fins acadêmicos.
