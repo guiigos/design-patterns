@@ -9,7 +9,6 @@ namespace ImplicitConversion
 
         public Car() { }
 
-        // implicit digit to byte conversion operator
         public static implicit operator Honda(Car car)
         {
             Honda honda = new Honda();

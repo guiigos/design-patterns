@@ -6,7 +6,6 @@ namespace ImplicitConversion
     {
         static void Main(string[] args)
         {
-            // implicit conversion
             Car car = new Car();
             car.year = "1991";
             car.km = "10";

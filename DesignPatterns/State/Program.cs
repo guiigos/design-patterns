@@ -16,8 +16,7 @@ namespace State
             Console.WriteLine(reforma.valor);
 
             reforma.Finaliza();
-
-
+            
             Console.ReadKey();
         }
     }
