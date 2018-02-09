@@ -1,5 +1,5 @@
 # Design Patterns
-> Projeto de exemplo de **design patterns**.
+> Example project of **design patterns**.
 
 ## Modelos 
 - [Adapter](DesignPatterns/Adapter)
@@ -18,7 +18,7 @@
 - [Visitor](DesignPatterns/Visitor)
 - [Implicit Conversion](DesignPatterns/ImplicitConversion)
 
-## Licença
-Projeto desenvolvido para fins acadêmicos.
+## License
+Project developed for academic purposes.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
