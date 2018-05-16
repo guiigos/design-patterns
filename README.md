@@ -1,7 +1,7 @@
 # Design Patterns
 > Example project of **design patterns**.
 
-## Modelos 
+## Models 
 - [Adapter](DesignPatterns/Adapter)
 - [Bridges](DesignPatterns/Bridges)
 - [Builder](DesignPatterns/Builder)
