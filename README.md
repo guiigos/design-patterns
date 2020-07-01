@@ -1,5 +1,5 @@
 # Design Patterns
-> Example project of **design patterns**.
+> Example project of **design patterns**
 
 ## Models 
 - [Adapter](DesignPatterns/Adapter)
