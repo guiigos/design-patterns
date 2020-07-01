@@ -1,5 +1,5 @@
 # Design Patterns
-> Example project of **design patterns**
+> Example of **design patterns** structures most used in application development using **C#**.
 
 ## Models 
 - [Adapter](DesignPatterns/Adapter)
